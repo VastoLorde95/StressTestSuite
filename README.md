@@ -1,3 +1,5 @@
+Note - We currently only support Linux
+
 # StressTestSuite
 A collection of scripts to generate common competitive programming testcases on Linux.
 
